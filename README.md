@@ -16,6 +16,6 @@ A volatility-free cryptocurrency lays the foundation for a global, decentralized
 
 The price can be easily predicted and calculated. There will be almost no reason to hold the original asset when instead you can have a safe one with no volatility at all.
 
-## Getting started with Novola
+## Getting started
 
 Novola is still in a very early phase. There are no tokens yet and the website and documentation are under construction. However, if you are already interested in investing with us, you can contact us to participate as an early-stage investor.
