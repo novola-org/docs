@@ -26,5 +26,5 @@ URL escape code: `%EA%9E%A4`
 
 ## Usage
 
-The Novola currency symbol is written before the amount (Ꞥ3.14) and there is no space between symbol and amount.
+The Novola currency symbol is written before the amount (Ꞥ123) and there is no space between symbol and amount.
 
